@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://eaglepassroofrepair.com/sitemap.xml
+
+# rebuild 2026-11-04
